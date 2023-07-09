@@ -1,0 +1,47 @@
+
+
+h1 {
+    font-family: 'Yeseva One', cursive;
+}
+
+p {
+    font-family: 'Poiret One', cursive;
+}
+
+
+h2 {
+    font-family: 'Yeseva One', cursive;
+}
+
+#experiences {
+    background-color: #F0EBE3;
+}
+
+h3 {
+    font-family: 'Yeseva One', cursive;
+}
+
+ul {
+    font-family: 'Poiret One', cursive;
+}
+
+
+
+ 
+@media(min-width: 418px) and (max-width: 1600px) {
+    .header {
+      font-size: 3rem;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
